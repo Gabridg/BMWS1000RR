@@ -61,16 +61,16 @@
             </div>
             <div id="img-moto">
                 <div>
-                    <img src="{{asset('images/bmw-1.webp')}}" alt="">
+                    <img src="{{asset('images/bmw-1.webp')}}" alt="immagine 1 moto">
                 </div>
                 <div>
-                    <img src="{{asset('images/bmw-2.png')}}" alt="">
+                    <img src="{{asset('images/bmw-2.png')}}" alt="immagine 2 moto">
                 </div>
                 <div>
-                    <img src="{{asset('images/bmw-3.png')}}" alt="">
+                    <img src="{{asset('images/bmw-3.png')}}" alt="immagine 3 moto">
                 </div>
                 <div>
-                    <img src="{{asset('images/bmw-logo.png')}}" alt="img moto">
+                    <img src="{{asset('images/bmw-logo.png')}}" alt="img 4 moto">
                 </div>
             </div>
 
